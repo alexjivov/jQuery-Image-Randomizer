@@ -1,0 +1,29 @@
+body {
+    background-image:url("assets/bons-and-foot-prints-pattern-background_1374-18.jpg");
+    background-repeat: none;
+    background-size: 1675px 900px;
+    z-index: auto;  
+}
+
+.jumbotron {
+    background-image:url("assets/bons-and-foot-prints-pattern-background_1374-18.jpg");
+    background-repeat: none;
+    background-size: 1675px 900px;
+}
+
+button {
+    width: 900px; 
+    margin-left:22%; 
+}
+
+.imgcontainer {
+    width: 900px; 
+    height: 700px; 
+    z-index: auto;
+    background-color: white; 
+    margin-left: 10%;
+    margin-top: 5%; 
+    overflow: hidden; 
+    text-align: center; 
+    padding-top: 8%; 
+}
